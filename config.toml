@@ -17,3 +17,8 @@ canonifyUrls = "true"
     title = "twitter"
     icon = "twitter"
     url = "https://twitter.com/painblogR"
+
+  [sitemap]
+    changefreq = "monthly"
+    filename = "sitemap.xml"
+    priority = 0.5
