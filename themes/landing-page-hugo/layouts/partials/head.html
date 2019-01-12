@@ -16,10 +16,7 @@
     <!-- Custom CSS  -->
     <link href="/css/landing-page.css" rel="stylesheet">
 
-    <!-- Pricing CSS -->
-    <link rel="stylesheet" href="/css/pricing.css">
-
-    <!-- Local CSS -->
+     <!-- Local CSS -->
     {{ range .Site.Params.custom_css }}
         <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
     {{ end }}
@@ -29,7 +26,7 @@
     <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- Add favicon -->
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
 
     <!-- Google analytics -->
     <script>
