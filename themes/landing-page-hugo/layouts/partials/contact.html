@@ -1,0 +1,17 @@
+<!-- Contact Section -->
+{{ if isset .Site.Params "social" }}
+<section id="contact" class="container content-section">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 text-center">
+		    <h1>Contact Us</h1>
+		    <br/>
+		    <p class="content">To organise a free consultation, and to get information on pricing, contact Dr Peter Kamerman.</p>
+			<br/>
+			<ul class="list-inline contact-social-buttons">
+				{{ partial "social.html" . }}
+			</ul>
+            <br/>
+		</div>
+	</div>
+{{ end }}
+</section>
