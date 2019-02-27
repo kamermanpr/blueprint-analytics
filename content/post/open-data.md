@@ -5,4 +5,4 @@ img = "open-data.jpg"
 weight = 4
 +++
 
-We specialise in developing workflows for reproducible research and open data using open-source software and platforms.
+I specialise in developing workflows for reproducible research and open data using open-source software and platforms.

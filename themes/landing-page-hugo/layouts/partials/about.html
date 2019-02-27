@@ -6,9 +6,13 @@
 			<br/>
 			<h1>{{ .Title }}</h1>
 			<br/>
-			<div class="content">
+			<div class="content" style="text-align:justify;">
 			    {{ .Content }}
 			</div>
+			<br/>
+			<ul class="list-inline contact-social-buttons">
+			    {{ partial "social.html" . }}
+			</ul>
 			<br/>
 		</div>
 	</div>
