@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Training"
-img = "training_2.jpg"
+img = "training.jpg"
 weight = 5
 +++
 
