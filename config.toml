@@ -4,8 +4,6 @@ languageCode = "en-us"
 title = "Blueprint Analytics"
 canonifyUrls = "true"
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
 [params]
     description = "Analyses and training designed for you"
     custom_css = ["css/local.css"]
@@ -14,12 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.social]]
     title = "email"
     icon = "envelope"
-    url = "mailto:peter.kamerman@gmail.com?subject=Request for information&body=Dear Peter"
-
-[[params.social]]
-    title = "Tel: +27 (0)83-415-7448"
-    icon = "phone"
-    url = "te:+27834157448"
+    url = "mailto:peter.kamerman@gmail.com"
 
 [sitemap]
     changefreq = "monthly"
