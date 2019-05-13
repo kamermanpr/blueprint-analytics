@@ -3,73 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blueprint-analytics.co.za/about/about/</loc>
+    <loc>/about/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/post/research-design/</loc>
+    <loc>/post/research-design/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/post/data-analysis/</loc>
+    <loc>/post/data-analysis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/post/data-presentation/</loc>
+    <loc>/post/data-presentation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/post/open-data/</loc>
+    <loc>/post/open-data/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/post/training/</loc>
+    <loc>/post/training/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/about/about/</loc>
+    <loc>/about/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/</loc>
+    <loc>/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/post/</loc>
+    <loc>/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blueprint-analytics.co.za/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
