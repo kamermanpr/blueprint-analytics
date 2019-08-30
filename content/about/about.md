@@ -6,7 +6,7 @@ weight = 1
 
 Blueprint Analytics works with you to develop and execute analysis plans suited to your goals. 
 
-I am a physiologist with over 20 years of experience in research and training in the biomedical sciences. I specialize in assisting postgraduate students (e.g., MMed, MDent, MSc, and PhD) and their supervisors with the design and analysis components of their research. 
+I am a physiologist with over 20 years of experience in research design, analysis and training in the biomedical sciences.
 
 I also have more than a decade of experience in the pharmaceutical industry doing consultancy work, training, and conducting market research, so I am adept at planning and executing research and training programmes in a commerical environment. 
 
