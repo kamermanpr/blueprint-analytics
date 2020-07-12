@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blueprint Analytics</title>
-    <link>/post/</link>
+    <link>http://blueprint-analytics.co.za/post/</link>
     <description>Recent content in Posts on Blueprint Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blueprint-analytics.co.za/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research Design</title>
-      <link>/post/research-design/</link>
+      <link>http://blueprint-analytics.co.za/post/research-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/research-design/</guid>
+      <guid>http://blueprint-analytics.co.za/post/research-design/</guid>
       <description>I will assist you in developing a blueprint for your research. I will advise you on defining a clear and answerable research question, and on the choice of study type, data collection methodologies, and statistical analyses for your research.</description>
     </item>
     
     <item>
       <title>Data Analysis</title>
-      <link>/post/data-analysis/</link>
+      <link>http://blueprint-analytics.co.za/post/data-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/data-analysis/</guid>
+      <guid>http://blueprint-analytics.co.za/post/data-analysis/</guid>
       <description>Working with you, I analyse your data from start to finish. I clean the data, generate graphical and numeric summaries, and undertake statistical inference testing. All analysis are presented in a comprehensive report that includes interpretations of the statistics and how to report the results.</description>
     </item>
     
     <item>
       <title>Data presentation and reporting</title>
-      <link>/post/data-presentation/</link>
+      <link>http://blueprint-analytics.co.za/post/data-presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/data-presentation/</guid>
+      <guid>http://blueprint-analytics.co.za/post/data-presentation/</guid>
       <description>I have solutions for effectively presenting your data, whether you need a table or a choropleth map. I customise the style, format, and functionality of the my reports, and standalone plots and tables according to your needs. Do you need black-and-white versions for a print journal and full-colour versions for a presentation? Do you want a report with interactive or animated plots for your website? I have you covered.</description>
     </item>
     
     <item>
       <title>Open data workflows</title>
-      <link>/post/open-data/</link>
+      <link>http://blueprint-analytics.co.za/post/open-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/open-data/</guid>
+      <guid>http://blueprint-analytics.co.za/post/open-data/</guid>
       <description>I specialise in developing workflows for reproducible research and open data using open-source software and platforms.</description>
     </item>
     
     <item>
       <title>Training</title>
-      <link>/post/training/</link>
+      <link>http://blueprint-analytics.co.za/post/training/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/training/</guid>
+      <guid>http://blueprint-analytics.co.za/post/training/</guid>
       <description>If you or people in your organization need training, I create courses and content that suit your needs in the areas of research methods, interpreting data, reporting and presenting data, and training on the use of the R statistical environment and open-research tools.</description>
     </item>
     
