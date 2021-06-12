@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://blueprintanalytics.netlify.com/* http://www.blueprint-analytics.co.za/:splat 301!
