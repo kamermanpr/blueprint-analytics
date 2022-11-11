@@ -10,6 +10,41 @@
     <base href="{{ .Site.BaseURL }}">
     <title>{{ .Title }}</title>
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CX4KFQ5PKB"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-CX4KFQ5PKB');
+    </script>
+
+    <!-- SEO -->
+    <title>Blueprint Analytics</title>
+    <meta name="description" content="Statistical analyses designed for you">
+    <link rel="author" href="https://www.painblogr.org" />
+    <meta name="robots" content="robots.txt">
+    <link rel="canonical" href="https://www.blueprint-analytics.net">
+
+    <!-- Twittercard -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@painblogR">
+    <meta name="twitter:creator" content="@painblogR">
+    <meta name="twitter:title" content="Blueprint Analytics">
+    <meta name="twitter:description" content="Statistical analyses designed for you">
+    <meta name="twitter:image" content="https://www.blueprint-analytics.net/img/blueprint-analytics.png">
+    <meta name="twitter:url" content="https://www.blueprint-analytics.net">
+
+    <!-- Opengraph -->
+    <meta property="og:title" content="Blueprint Analytics">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.blueprint-analytics.net">
+    <meta property="og:image" content="https://www.blueprint-analytics.net/img/blueprint-analytics.png">
+    <meta property="og:description" content="Statistical analyses designed for you">
+    <meta property="og:site_name" content="Blueprint Analytics">
+    <meta property="fb:app_id" content="621412384962188">
+
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
@@ -18,7 +53,7 @@
 
     <!-- Pricing CSS -->
     <link rel="stylesheet" href="/css/pricing.css">
-    
+
     <!-- Local CSS -->
     {{ range .Site.Params.custom_css }}
         <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
