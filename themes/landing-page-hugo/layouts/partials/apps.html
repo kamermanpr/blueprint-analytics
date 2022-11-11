@@ -1,0 +1,15 @@
+<!-- About Section -->
+<section id="apps">
+		<div class="apps" style="padding-top:50px;padding-bottom:50px;">
+	    <div class="container">
+				<div class="row">
+						{{ range where .Site.RegularPages "Section" "apps" }}
+						<div class="col-lg-8 col-lg-offset-2">
+							<h2 style="text-align:center;font-color:#000000;font-size:3em;padding-bottom:25px">Apps</h2>
+							<span style="text-align:justify;font-weight:normal;font-size:1.3em;">{{ .Content }}</span>
+						</div>
+						</div>
+					</div>
+						{{ end }}
+				</div>
+</section>

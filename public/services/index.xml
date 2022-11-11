@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Blueprint Analytics</title>
+    <link>https://www.blueprint-analytics.net/services/</link>
+    <description>Recent content in Services on Blueprint Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.blueprint-analytics.net/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Design</title>
+      <link>https://www.blueprint-analytics.net/services/01_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.blueprint-analytics.net/services/01_design/</guid>
+      <description>I will assist you in developing a blueprint for your research. I will advise you on defining a clear and answerable research question, and on the choice of study type, data collection methodologies, and statistical analyses for your research.</description>
+    </item>
+    
+    <item>
+      <title>Data analysis</title>
+      <link>https://www.blueprint-analytics.net/services/02_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.blueprint-analytics.net/services/02_analysis/</guid>
+      <description>Working with you, I analyse your data from start to finish. I clean the data, generate graphical and numeric summaries, and undertake statistical inference testing. All analysis are presented in a comprehensive report that includes interpretations of the statistics and how to report the results.</description>
+    </item>
+    
+    <item>
+      <title>Data presentation &amp; reporting</title>
+      <link>https://www.blueprint-analytics.net/services/03_data-presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.blueprint-analytics.net/services/03_data-presentation/</guid>
+      <description>I have solutions for effectively presenting your data, whether you need a table or a choropleth map. I customise the style, format, and functionality of the my reports, and standalone plots and tables according to your needs. Do you need black-and-white versions for a print journal and full-colour versions for a presentation? Do you want a report with interactive or animated plots for your website? I have you covered.</description>
+    </item>
+    
+    <item>
+      <title>Open research workflows</title>
+      <link>https://www.blueprint-analytics.net/services/04_open-workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.blueprint-analytics.net/services/04_open-workflows/</guid>
+      <description>I specialise in developing workflows for reproducible research and open research using open-source software and platforms.</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://www.blueprint-analytics.net/services/05_training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.blueprint-analytics.net/services/05_training/</guid>
+      <description>If you or people in your organisation need training, I create courses and content that suit your needs in the areas of research methods, interpreting data, reporting and presenting data, and training on the use the statistical programming language R.</description>
+    </item>
+    
+  </channel>
+</rss>

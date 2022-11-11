@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Blueprint Analytics</title>
+    <link>https://www.blueprint-analytics.net/apps/</link>
+    <description>Recent content in Apps on Blueprint Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.blueprint-analytics.net/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apps</title>
+      <link>https://www.blueprint-analytics.net/apps/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.blueprint-analytics.net/apps/apps/</guid>
+      <description>I have developed two free online apps. One for basic statistical analysis (statR ), and one for basic plotting of data (plotR ).
+Please feel free to make use of them.</description>
+    </item>
+    
+  </channel>
+</rss>

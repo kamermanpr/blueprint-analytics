@@ -1,0 +1,179 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    -webkit-text-stroke: 2px #000000;
+    font-size: 6em;
+}
+
+.intro-divider {
+    width: 50%;
+}
+
+.intro-message > h2 {
+    -webkit-text-stroke: 1px #000000;
+    font-size: 3em;
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: inline-block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.about {
+    padding: 50px;
+    padding-bottom: 50px;
+}
+
+.about h2 {
+    text-align: center;
+    font-color: #000000;
+    font-size: 3em;
+    padding-bottom: 50px
+}
+
+.about img {
+    border-radius: 50%;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    font-size: 1.3em;
+    font-weight: normal
+}
+
+.content-section-b {
+    padding: 50px 0;
+    font-size: 1.3em;
+    font-weight: normal
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 1.5px solid #000000;
+}
+
+.contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.contact-social-buttons {
+    margin-top: 50px;
+}
+
+@media(max-width:1199px) {
+    ul.contact-social-buttons {
+        margin-top: 50px;
+    }
+}
+
+  .contact h2 {
+      font-color: #000000;
+      font-size: 3em;
+      padding-bottom: 0;
+  }
+
+    ul.contact-social-buttons > li {
+        display: inline-block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.contact-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.services {
+
+}
+
+.services h2 {
+    text-align: center;
+    font-color: #000000;
+    font-size: 3em;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.services p {
+    text-align: center;
+    font-color: #000000;
+    font-size: 1.5em;
+    font-weight: normal;
+    padding-bottom: 0px;
+}
