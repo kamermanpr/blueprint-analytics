@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www.blueprint-analytics.net/sitemap.xml
+Sitemap: https://www.blueprint-analytics.solutions/sitemap.xml

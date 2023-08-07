@@ -1,5 +1,5 @@
 theme = "landing-page-hugo"
-baseurl = "https://www.blueprint-analytics.net"
+baseurl = "https://www.blueprint-analytics.solutions"
 languageCode = "en-us"
 title = "Blueprint Analytics"
 canonifyUrls = "true"
